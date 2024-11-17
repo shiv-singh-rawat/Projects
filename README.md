@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Here’s a simple README based on your dataset and analysis files:
+<h1 align="center" id="title">
 Data Analysis Projects</h1>
 
 <p id="description">This repository contains multiple data analysis projects using various datasets, including COVID-19 data, Olympics data, store performance data, and Netflix data.</p>
