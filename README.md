@@ -9,25 +9,25 @@ Data Analysis Projects</h1>
 
 1. COVID-19 Data Analysis (2020 - 2022)
 
-    File: COVID-19 DATA ANALYSIS 2020 - 2022.xlsx
-    Description: Analysis of global COVID-19 data over a span of two years (2020-2022). It includes insights into infection rates, death rates, and trends across different regions and countries.
+    * File: COVID-19 DATA ANALYSIS 2020 - 2022.xlsx
+    * Description: Analysis of global COVID-19 data over a span of two years (2020-2022). It includes insights into infection rates, death rates, and trends across different regions and countries.
 
 2. Olympics Dataset Analysis
 
-    File: Olympics dataset analyse.ipynb
-    Description: Jupyter notebook that analyzes Olympic data, focusing on medal counts, country performances, and event statistics across multiple Olympic years.
+    * File: Olympics dataset analyse.ipynb
+    * Description: Jupyter notebook that analyzes Olympic data, focusing on medal counts, country performances, and event statistics across multiple Olympic years.
 
 3. Store Data Analysis
 
-    Files:
+    * Files:
         Store Data Analysis.ipynb
         Store Data Analysis.xlsx
-    Description: Analysis of store performance data. The notebook includes insights into sales, revenue, and product performance to help understand trends and business performance.
+    * Description: Analysis of store performance data. The notebook includes insights into sales, revenue, and product performance to help understand trends and business performance.
 
 4. Netflix Dataset Analysis
 
-    File: netflix_dataset analyse.xlsx
-    Description: Analysis of Netflix content and viewing patterns, including top-rated shows, genre distribution, and trends over time.
+    * File: netflix_dataset analyse.xlsx
+    * Description: Analysis of Netflix content and viewing patterns, including top-rated shows, genre distribution, and trends over time.
 
 
 
